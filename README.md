@@ -19,10 +19,10 @@ Now us already has a project on react native, but us need creat a Hello world me
 To this, open the `app.js` to change mensage
 ```Open up App.js to start working on your app!``` to ```Hello World```
 
-This tutorial is on this <a href="https://facebook.github.io/react-native/docs/getting-started">link</a><br>
+The tutorial on how to start a react-native project is at this <a href="https://facebook.github.io/react-native/docs/getting-started">link</a><br>
 
-From now on we will include web components
-on this <a href="https://facebook.github.io/react-native/docs/components-and-apis.html">link</a> you find examples of components and yours code exemples.<br> 
+From now on we will include web components.<br>
+On this <a href="https://facebook.github.io/react-native/docs/components-and-apis.html">link</a> you find examples of components and yours code exemples.<br> 
 
 At the end of this tutorial, your `app.js` should look like this code:
 ```
@@ -69,10 +69,10 @@ Agora já temos um projeto em react-native, mas precisamos criar uma mensagem de
 Para isso, abra o `app.js` para alterar a mensagem
 ```Open up App.js to start working on your app!``` para ```Hello World```
 
-Este tutorial está no <a href="https://facebook.github.io/react-native/docs/getting-started"> link </a> <br>
+O tutorial de como iniciar um projeto react-native está neste <a href="https://facebook.github.io/react-native/docs/getting-started"> link </a> <br>
 
-A partir de agora, incluiremos componentes web
-neste <a href="https://facebook.github.io/react-native/docs/components-and-apis.html"> link </a>, você encontra exemplos de componentes e exemplos de código. <br>
+A partir de agora, incluiremos componentes web.<br>
+Neste <a href="https://facebook.github.io/react-native/docs/components-and-apis.html"> link </a>, você encontra exemplos de componentes e exemplos de código. <br>
 
 No final deste tutorial, seu `app.js` deve se parecer com este código:
 ```
