@@ -76,23 +76,23 @@ neste <a href="https://facebook.github.io/react-native/docs/components-and-apis.
 
 No final deste tutorial, seu `app.js` deve se parecer com este código:
 ```
-importar Reagir de 'reagir';
-import {StyleSheet, Text, View, Button, Alert} de 'react-native';
+import React from 'react';
+import { StyleSheet, Text, View, Button, Alert} from 'react-native';
 
-exportar a função padrão App () {
-  Retorna (
-    <View style = {styles.container}>
-      <Text> Olá Mundo! </Text>
-    </View>
-  );
+export default function App() {
+  return (
+    <View style={styles.container}>
+      <Text>Hello World!</Text>
+    </View>
+  );
 }
 
-estilos de const = StyleSheet.create ({
-  contêiner: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  }
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
 });
 ```
