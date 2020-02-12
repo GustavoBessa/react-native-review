@@ -5,11 +5,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hello World!</Text>
-      <Text>Precione o botão para exibir um alerta!</Text>
-      <Button
-            title="Enviar"
-            onPress={() => Alert.alert('Olá sou um alerta')}
-          />
     </View>
   );
 }
