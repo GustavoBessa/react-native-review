@@ -5,6 +5,7 @@ Before everything, Us need install all dependences to use react-native.
 ```
 npm install -g expo-cli
 ```
+
 ```
 expo init react-native-one-day-review
 ```
@@ -51,10 +52,12 @@ const styles = StyleSheet.create({
 <b>Portuguese:</b><br>
 Revisão de estudos sobre desenvolvimento usando react-native em um dia
 Antes de tudo, precisamos instalar todas as dependências para usar react-native.
+
 ```
 npm install -g expo-cli
 ```
 Agora iremos iniciar um projeto utilizando o `expo`
+
 ```
 expo init react-native-one-day-review
 ```
