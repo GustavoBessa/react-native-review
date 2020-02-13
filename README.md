@@ -99,3 +99,4 @@ const styles = StyleSheet.create({
   },
 });
 ```
+By: Gustavo Bessa
